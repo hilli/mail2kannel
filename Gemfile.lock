@@ -1,0 +1,16 @@
+PATH
+  remote: .
+  specs:
+    mail2kannel (0.0.1)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    fssm (0.2.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  fssm
+  mail2kannel!
