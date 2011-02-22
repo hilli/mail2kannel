@@ -1,0 +1,96 @@
+From jens@dir.dk Tue Feb 22 13:05:05 2011
+Return-Path: <jens@dir.dk>
+X-Original-To: dir@hilli.dk
+Delivered-To: hilli@ping.vin.dk
+Received: from avmail7.dir.dk (avmail7.dir.dk [193.201.39.77])
+	by ping.vin.dk (Postfix) with ESMTP id 36C29A2D422
+	for <dir@hilli.dk>; Tue, 22 Feb 2011 13:05:05 +0100 (CET)
+X-ASG-Debug-ID: 1298376304-754b00430000-hY5AbW
+X-Barracuda-URL: http://mailplus2.dir.dk:80/cgi-bin/mark.cgi
+Received: from exchangehost.dk (localhost [127.0.0.1])
+	by avmail7.dir.dk (Spam & Virus Firewall) with ESMTP id CE6F6187DE7E
+	for <dir@hilli.dk>; Tue, 22 Feb 2011 13:05:04 +0100 (CET)
+Received: from exchangehost.dk (exch2k7-hub1.exchangehost.dk [193.201.39.68]) by avmail7.dir.dk with ESMTP id hK9ZUkEqxrSC9cDj for <dir@hilli.dk>; Tue, 22 Feb 2011 13:05:04 +0100 (CET)
+X-Barracuda-Envelope-From: jens@dir.dk
+Resent-From: <jens@dir.dk>
+Received: from avmail6.dir.dk (193.201.39.76) by exch2k7-hub1.exchangehost.dk
+ (193.201.39.68) with Microsoft SMTP Server id 8.1.436.0; Tue, 22 Feb 2011
+ 13:05:04 +0100
+X-Barracuda-BBL-IP: nil
+Received: from revii.dir.dk (localhost [127.0.0.1])	by avmail6.dir.dk (Spam &
+ Virus Firewall) with ESMTP id DDA8E19A499B	for <jens@dir.dk>; Tue, 22 Feb
+ 2011 13:05:03 +0100 (CET)
+Received: from revii.dir.dk (ns2.dir.dk [193.201.39.33]) by avmail6.dir.dk
+ with ESMTP id y7KubcWmuve8IIqV for <jens@dir.dk>; Tue, 22 Feb 2011 13:05:03
+ +0100 (CET)
+Received: by revii.dir.dk (Postfix, from userid 81)	id CAE9B40B6ED; Tue, 22
+ Feb 2011 13:05:03 +0100 (CET)
+To: <jens@dir.dk>
+From: <rancid@localhost.dir.dk>
+X-ASG-Orig-Subj: r908 - trunk
+Subject: r908 - trunk
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+Message-ID: <20110222120503.CAE9B40B6ED@revii.dir.dk>
+Date: Tue, 22 Feb 2011 13:05:03 +0100
+MIME-Version: 1.0
+X-Barracuda-Connect: exch2k7-hub1.exchangehost.dk[193.201.39.68]
+X-Barracuda-Start-Time: 1298376304
+Resent-Message-Id: <20110222120504.CE6F6187DE7E@avmail7.dir.dk>
+Resent-Date: Tue, 22 Feb 2011 13:05:04 +0100 (CET)
+X-Barracuda-Virus-Scanned: by DIR MailPlus at dir.dk
+X-ASG-Whitelist: Sender (Per-User)
+
+Author: rancid
+Date: 2011-02-22 13:05:03 +0100 (Tue, 22 Feb 2011)
+New Revision: 908
+
+Modified:
+   trunk/core1-a
+   trunk/core1-b
+   trunk/sw11
+Log:
+HP Procurve configs updated
+
+Modified: trunk/core1-a
+===================================================================
+--- trunk/core1-a	2011-02-22 11:05:31 UTC (rev 907)
++++ trunk/core1-a	2011-02-22 12:05:03 UTC (rev 908)
+@@ -838,7 +838,7 @@
+    exit 
+ vlan 425 
+    name "vlan425" 
+-   tagged A5-A7,B6,B9-B10,B15,E1,Trk1 
++   tagged A5-A7,B6,B9-B11,B15,E1,Trk1 
+    no ip address 
+    exit 
+ vlan 426 
+
+Modified: trunk/core1-b
+===================================================================
+--- trunk/core1-b	2011-02-22 11:05:31 UTC (rev 907)
++++ trunk/core1-b	2011-02-22 12:05:03 UTC (rev 908)
+@@ -839,7 +839,7 @@
+    exit 
+ vlan 425 
+    name "vlan425" 
+-   tagged A6-A7,B9-B10,B15,E1,Trk1 
++   tagged A6-A7,B9-B11,B15,E1,Trk1 
+    no ip address 
+    exit 
+ vlan 426 
+
+Modified: trunk/sw11
+===================================================================
+--- trunk/sw11	2011-02-22 11:05:31 UTC (rev 907)
++++ trunk/sw11	2011-02-22 12:05:03 UTC (rev 908)
+@@ -439,7 +439,7 @@
+    exit 
+ vlan 425 
+    name "VLAN425" 
+-   tagged A2-A3 
++   tagged 5,47-48,A2-A3 
+    no ip address 
+    exit 
+ vlan 427 
+

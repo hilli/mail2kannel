@@ -1,0 +1,774 @@
+From p=3&u=1003178398&ml=1000000137&c=1053&cs=fc202924@bounce.f2.peytz.dk Tue Feb 22 13:26:09 2011
+Return-Path: <p=3&u=1003178398&ml=1000000137&c=1053&cs=fc202924@bounce.f2.peytz.dk>
+Received: from gyldendal.smtp.peytz.dk (localhost [127.0.0.1])
+	by avmail6.dir.dk (Spam & Virus Firewall) with ESMTP id 1C35B19A85C8
+	for <jens@hilli.dk>; Tue, 22 Feb 2011 13:26:08 +0100 (CET)
+Received: from gyldendal.smtp.peytz.dk (gyldendal.smtp.peytz.dk [81.7.134.221]) by avmail6.dir.dk with ESMTP id fsiWMyQUNkgTeslv for <jens@hilli.dk>; Tue, 22 Feb 2011 13:26:08 +0100 (CET)
+X-Barracuda-Envelope-From: p=3&u=1003178398&ml=1000000137&c=1053&cs=fc202924@bounce.f2.peytz.dk
+Received: from b12 (unknown [10.1.2.151])
+	by gyldendal.smtp.peytz.dk (Postfix) with ESMTP id 6CE1749CB5A
+	for <jens@hilli.dk>; Tue, 22 Feb 2011 13:26:07 +0100 (CET)
+MIME-Version: 1.0
+X-Barracuda-BBL-IP: 10.1.2.151
+X-Barracuda-RBL-IP: 10.1.2.151
+Date: Tue, 22 Feb 2011 13:25:53 +0100
+X-Return-Path: p=3&u=1003178398&ml=1000000137&c=1053&cs=fc202924@bounce.f2.peytz.dk
+X-Email-Service-Provider: Peytz & co. <http://peytz.dk/>
+X-Publisher: Gyldendal
+X-Mailinglist: Dagen i dag
+X-Newsletter-ID: 1000104209
+X-Newsletter-Status: Published
+X-Realserver: 62
+Precedence: list
+List-Post: NO (posting not allowed on this list)
+List-Id: Dagen i dag <gyldendalbruger-da-dk.gyldendal.list-id.peytz.dk>
+X-Mailinglist-Settings: <http://gyldendal.nyhedsbrev.peytz.dk/edit.php?mailinglistName=gyldendalbruger-da-dk&userId=1003178398&checksum=c160785>
+X-RSS-Feed-Beta: <http://gyldendal.nyhedsbrev.peytz.dk/rss.php?mailinglistName=gyldendalbruger-da-dk&userId=1003178398&checksum=c160785>
+List-Unsubscribe: <mailto:unsub+p=3&u=1003178398&ml=1000000137&c=1053&cs=fc202924@bounce.f2.peytz.dk>, <http://gyldendal.nyhedsbrev.peytz.dk/unsubscribe.php?mailinglistName=gyldendalbruger-da-dk&userId=1003178398&checksum=c160785>
+Message-Id: <n=1000104209&u=1003178398&t=1298377200@gyldendal.customer.peytz.dk>
+To: "=?ISO-8859-1?Q?Jens_Hilligs=F8e?=" <jens@hilli.dk>, Bjarne <bjarne@smsgate.ip.dir.dk>, Jens SMS <jens@smsgate.ip.dir.dk>
+Mail-Address-ID: 3217367
+X-Orig-To: jens@hilli.dk
+X-ASG-Orig-Subj: =?ISO-8859-1?Q?Dagen=20i=20dag:=20Peter=20-=20Brian=20Laudrup?=
+ =?ISO-8859-1?Q?=20-=20Nakskovaff=E6ren?=
+Subject: =?ISO-8859-1?Q?Dagen=20i=20dag:=20Peter=20-=20Brian=20Laudrup?=
+ =?ISO-8859-1?Q?=20-=20Nakskovaff=E6ren?=
+From: "Den Store Danske" <noreply@denstoredanske.dk>
+Content-Type: multipart/alternative;
+	boundary="=_7d7f2edb105831c469ced12833051e03"
+X-Barracuda-Connect: gyldendal.smtp.peytz.dk[81.7.134.221]
+X-Barracuda-Start-Time: 1298377568
+X-Barracuda-Bayes: INNOCENT GLOBAL 0.0000 1.0000 -2.0210
+X-Barracuda-Virus-Scanned: by DIR MailPlus at dir.dk
+X-Barracuda-Spam-Score: -1.92
+X-Barracuda-Spam-Status: No, SCORE=-1.92 using per-user scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=4.0 KILL_LEVEL=7.0 tests=BSF_SC0_SA085, HTML_MESSAGE
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.2.56068
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+	0.10 BSF_SC0_SA085          Custom Rule SA085
+
+--=_7d7f2edb105831c469ced12833051e03
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="ISO-8859-1"
+
+DEN STORE DANSKE - Gyldendals =E5bne encyklop=E6di
+-----------------------------
+Dagen i dag
+
+Peter
+Denne dag er en af tre dage i l=F8bet af kirke=E5ret, apostlen Peter blev f=
+ejret i middelalderen; de andre er 29. juni og 1. august. Peter er den klip=
+pe, som...
+-----
+L=E6s mere: http://www.denstoredanske.dk/Kunst%2bog%2bkultur/Religion%2bog%=
+2bmystik/Ny%2btestamente/Peter
+
+
+
+Brian Laudrup
+Den danske fodboldspiller Brian Laudrup blev f=F8dt. Han betragtes pga. sin=
+ tekniske kunnen, sit antrit og sine driblinger som en af dansk fodbolds be=
+dste...
+-----
+L=E6s mere: http://www.denstoredanske.dk/Livsstil,%2bsport%2bog%2bfritid/Sp=
+ort/Fodbold/Brian%2bLaudrup
+
+
+
+Nakskovaff=E6ren
+Byr=E5dssalen i Nakskov blev besat af repr=E6sentanter for De Arbejdsl=F8se=
+s Organisation, som aktionerede for bedre forhold under den =F8konomiske kr=
+ise.
+-----
+L=E6s mere: http://www.denstoredanske.dk/Danmarks%2bgeografi%2bog%2bhistori=
+e/Danmarks%2bhistorie/Danmark%2b1849-1945/Nakskovaff%c3%a6ren
+
+
+
+Johns Hopkins University
+Det amerikanske universitet Johns Hopkins University i Baltimore, Maryland,=
+ =E5bnede. Det har et af landets bedste medicinske fakulteter. I tilknytnin=
+g til...
+-----
+L=E6s mere: http://www.denstoredanske.dk/Erhverv,%2bkarriere%2bog%2bledelse=
+/P%c3%a6dagogik%2bog%2buddannelse/Udenlandske%2buniversiteter/Johns%2bHopki=
+ns%2bUniversity
+
+
+
+Robert Baden-Powell
+Briterne Robert Baden-Powell og Olave St. Clair Soames blev begge f=F8dt p=
+=E5 denne dag i hhv. 1857 og 1889. Robert stiftede spejderbev=E6gelsen og =
+=E6gtede siden...
+-----
+L=E6s mere: http://www.denstoredanske.dk/Livsstil,%2bsport%2bog%2bfritid/Tu=
+risme%2bog%2bfritid/Spejderbev%c3%a6gelser/Robert%2bBaden-Powell
+
+
+
+-----------------------------
+Afmeld nyhedsbrev: http://gyldendal.nyhedsbrev.peytz.dk/edit.php?newsletter=
+Id=3D1000104209&mailinglistName=3Dgyldendalbruger-da-dk&userId=3D1003178398=
+&checksum=3Dc160785&skipAutoSubscribe=3D1
+
+--=_7d7f2edb105831c469ced12833051e03
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="ISO-8859-1"
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd"><html><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3Diso-8859-1"><title>Den Store Danske - Dagen i=
+ dag</title>
+        <style media=3D"all" type=3D"text/css">
+        table td { border-collapse: collapse; }
+        </style>
+    </head><body style=3D"margin:0;" bgcolor=3D"#9ebdcb"><table width=3D"10=
+0%" cellpadding=3D"0" cellspacing=3D"0"><tr><td bgcolor=3D"#9ebdcb" width=
+=3D"100%" height=3D"100%"><table width=3D"600" align=3D"center" bgcolor=3D"=
+#FFFFFF" cellpadding=3D"0" cellspacing=3D"0"><tr><td align=3D"right" valign=
+=3D"bottom" height=3D"30" bgcolor=3D"#9ebdcb" style=3D"font-family:Verdana,=
+ Geneva, sans-serif; font-size:10px; color:#3f5c70; line-height:2;">Kan du =
+ikke se dette nyhedsbrev - <a href=3D"http://gyldendal.nyhedsbrev.peytz.dk/=
+v.php?mailinglistId=3D1000000137&amp;newsletterId=3D1000104209&amp;userId=
+=3D1003178398&amp;cs=3Dbe526d33" style=3D"font-weight:bold; color:#FFFFFF; =
+text-decoration:none;">klik her</a>&nbsp;</td></tr><tr><td align=3D"center"=
+ height=3D"134" bgcolor=3D"#375467" style=3D"font-family:Verdana, Geneva, s=
+ans-serif; font-size:20px; color:#FFFFFF;"><a href=3D"http://www.denstoreda=
+nske.dk" target=3D"_blank"><img src=3D"http://gyldendal.nyhedsbrev.peytz.dk=
+/kollage/gfx/topbanner/gyldendalbruger-da-dk?novary=3D1245329604" border=3D=
+"0" width=3D"600" height=3D"134" alt=3D"DEN STORE DANSKE - Gyldendals =E5bn=
+e encyklop=E6di" /></a></td></tr><tr><td height=3D"20" bgcolor=3D"#FFFFFF">=
+<img src=3D"http://gyldendal.nyhedsbrev.peytz.dk/kollage/gfx/top_gradient?n=
+ovary=3D1233748236" width=3D"600" height=3D"20" alt=3D"" /></td></tr><tr><t=
+d valign=3D"top" height=3D"25" bgcolor=3D"#FFFFFF" style=3D"font-family:Ver=
+dana, Geneva, sans-serif; font-size:14px; font-weight:bold;"><img src=3D"ht=
+tp://gyldendal.nyhedsbrev.peytz.dk/kollage/gfx/spacer?novary=3D1233748226" =
+width=3D"20" height=3D"10" alt=3D"" /><a href=3D"http://gyldendal.nyhedsbre=
+v.peytz.dk/g.php?1003178398-1010387091-edf3c076-http%3A%2F%2Fwww.denstoreda=
+nske.dk%2FDags_dato%2F22._februar" style=3D"color:#666666; text-decoration:=
+none;">Dagen i dag</a></td></tr><tr><td><table width=3D"600" bgcolor=3D"#FF=
+FFFF" cellpadding=3D"0" cellspacing=3D"0"><tr><!-- LEFT COLUMN --><td valig=
+n=3D"top" width=3D"380"><table align=3D"center" width=3D"340" cellpadding=
+=3D"0" cellspacing=3D"0"><tr><td width=3D"340" height=3D"2"></td></tr><tr><=
+td width=3D"340" height=3D"24" bgcolor=3D"#375467"><table width=3D"320" ali=
+gn=3D"center" cellpadding=3D"0" cellspacing=3D"0"><tr><td bgcolor=3D"#37546=
+7" style=3D"font-family:Verdana, Geneva, sans-serif; font-size:12px; color:=
+#FFFFFF;">Dagen i dag <b>22. februar 2011</b></td></tr></table></td></tr><t=
+r><td width=3D"340" height=3D"17"><img src=3D"http://gyldendal.nyhedsbrev.p=
+eytz.dk/kollage/gfx/articles_top_gradient?novary=3D1233748191" width=3D"340=
+" height=3D"17" alt=3D"" style=3D"display:block;" /></td></tr><tr><td valig=
+n=3D"top" width=3D"340"><table align=3D"center" width=3D"320" cellpadding=
+=3D"0" cellspacing=3D"0"><tr><td width=3D"320" style=3D"font-family:Verdana=
+, Geneva, sans-serif; font-size:10px; color:#474747; line-height:1.3;"><a h=
+ref=3D"http://gyldendal.nyhedsbrev.peytz.dk/g.php?1003178398-1010387092-425=
+a8dbc-http%3A%2F%2Fwww.denstoredanske.dk%2FKunst%252bog%252bkultur%2FReligi=
+on%252bog%252bmystik%2FNy%252btestamente%2FPeter" style=3D"color:#474747; t=
+ext-decoration:none;"><span style=3D"font-size:13px; font-weight:bold;">&#1=
+97;rligt - Peter</span><br /><span style=3D"color:#666666;">Denne dag er en=
+ af tre dage i l&#248;bet af kirke&#229;ret, apostlen Peter blev fejret i m=
+iddelalderen; de andre er 29. juni og 1. august. Peter er den klippe, som..=
+.</span><span style=3D"color:#669900;"> L=E6s mere</span></a></td></tr><tr>=
+<td width=3D"320" height=3D"23"><img src=3D"http://gyldendal.nyhedsbrev.pey=
+tz.dk/kollage/gfx/articles_dots?novary=3D1233748187" width=3D"320" height=
+=3D"23" alt=3D"" style=3D"display:block;" /></td></tr><tr><td width=3D"320"=
+ style=3D"font-family:Verdana, Geneva, sans-serif; font-size:10px; color:#4=
+74747; line-height:1.3;"><a href=3D"http://gyldendal.nyhedsbrev.peytz.dk/g.=
+php?1003178398-1010387093-273db6fa-http%3A%2F%2Fwww.denstoredanske.dk%2FLiv=
+sstil%2C%252bsport%252bog%252bfritid%2FSport%2FFodbold%2FBrian%252bLaudrup"=
+ style=3D"color:#474747; text-decoration:none;"><span style=3D"font-size:13=
+px; font-weight:bold;">1969 - Brian Laudrup</span><br /><span style=3D"colo=
+r:#666666;">Den danske fodboldspiller Brian Laudrup blev f&#248;dt. Han bet=
+ragtes pga. sin tekniske kunnen, sit antrit og sine driblinger som en af da=
+nsk fodbolds bedste...</span><span style=3D"color:#669900;"> L=E6s mere</sp=
+an></a></td></tr><tr><td width=3D"320" height=3D"23"><img src=3D"http://gyl=
+dendal.nyhedsbrev.peytz.dk/kollage/gfx/articles_dots?novary=3D1233748187" w=
+idth=3D"320" height=3D"23" alt=3D"" style=3D"display:block;" /></td></tr><t=
+r><td width=3D"320" style=3D"font-family:Verdana, Geneva, sans-serif; font-=
+size:10px; color:#474747; line-height:1.3;"><a href=3D"http://gyldendal.nyh=
+edsbrev.peytz.dk/g.php?1003178398-1010387094-c6791069-http%3A%2F%2Fwww.dens=
+toredanske.dk%2FDanmarks%252bgeografi%252bog%252bhistorie%2FDanmarks%252bhi=
+storie%2FDanmark%252b1849%2d1945%2FNakskovaff%25c3%25a6ren" style=3D"color:=
+#474747; text-decoration:none;"><span style=3D"font-size:13px; font-weight:=
+bold;">1931 - Nakskovaff&#230;ren</span><br /><span style=3D"color:#666666;=
+">Byr&#229;dssalen i Nakskov blev besat af repr&#230;sentanter for De Arbej=
+dsl&#248;ses Organisation, som aktionerede for bedre forhold under den &#24=
+8;konomiske krise.</span><span style=3D"color:#669900;"> L=E6s mere</span><=
+/a></td></tr><tr><td width=3D"320" height=3D"23"><img src=3D"http://gyldend=
+al.nyhedsbrev.peytz.dk/kollage/gfx/articles_dots?novary=3D1233748187" width=
+=3D"320" height=3D"23" alt=3D"" style=3D"display:block;" /></td></tr><tr><t=
+d width=3D"320" style=3D"font-family:Verdana, Geneva, sans-serif; font-size=
+:10px; color:#474747; line-height:1.3;"><a href=3D"http://gyldendal.nyhedsb=
+rev.peytz.dk/g.php?1003178398-1010387095-a31e2b2f-http%3A%2F%2Fwww.denstore=
+danske.dk%2FErhverv%2C%252bkarriere%252bog%252bledelse%2FP%25c3%25a6dagogik=
+%252bog%252buddannelse%2FUdenlandske%252buniversiteter%2FJohns%252bHopkins%=
+252bUniversity" style=3D"color:#474747; text-decoration:none;"><span style=
+=3D"font-size:13px; font-weight:bold;">1876 - Johns Hopkins University</spa=
+n><br /><span style=3D"color:#666666;">Det amerikanske universitet Johns Ho=
+pkins University i Baltimore, Maryland, &#229;bnede. Det har et af landets =
+bedste medicinske fakulteter. I tilknytning til...</span><span style=3D"col=
+or:#669900;"> L=E6s mere</span></a></td></tr><tr><td width=3D"320" height=
+=3D"23"><img src=3D"http://gyldendal.nyhedsbrev.peytz.dk/kollage/gfx/articl=
+es_dots?novary=3D1233748187" width=3D"320" height=3D"23" alt=3D"" style=3D"=
+display:block;" /></td></tr><tr><td width=3D"320" style=3D"font-family:Verd=
+ana, Geneva, sans-serif; font-size:10px; color:#474747; line-height:1.3;"><=
+a href=3D"http://gyldendal.nyhedsbrev.peytz.dk/g.php?1003178398-1010387096-=
+cb766e5-http%3A%2F%2Fwww.denstoredanske.dk%2FLivsstil%2C%252bsport%252bog%2=
+52bfritid%2FTurisme%252bog%252bfritid%2FSpejderbev%25c3%25a6gelser%2FRobert=
+%252bBaden%2dPowell" style=3D"color:#474747; text-decoration:none;"><span s=
+tyle=3D"font-size:13px; font-weight:bold;">1857 - Robert Baden-Powell</span=
+><br /><span style=3D"color:#666666;">Briterne Robert Baden-Powell og Olave=
+ St. Clair Soames blev begge f&#248;dt p&#229; denne dag i hhv. 1857 og 188=
+9. Robert stiftede spejderbev&#230;gelsen og &#230;gtede...</span><span sty=
+le=3D"color:#669900;"> L=E6s mere</span></a></td></tr><tr><td width=3D"320"=
+ height=3D"23"><img src=3D"http://gyldendal.nyhedsbrev.peytz.dk/kollage/gfx=
+/articles_dots?novary=3D1233748187" width=3D"320" height=3D"23" alt=3D"" st=
+yle=3D"display:block;" /></td></tr><tr><td width=3D"320" style=3D"font-fami=
+ly:Verdana, Geneva, sans-serif; font-size:10px; color:#474747; line-height:=
+1.3;"><a href=3D"http://gyldendal.nyhedsbrev.peytz.dk/g.php?1003178398-1010=
+387097-69d05da3-http%3A%2F%2Fwww.denstoredanske.dk%2FRejser%2C%252bgeografi=
+%252bog%252bhistorie%2FFrankrig%2FFrankrigs%252bhistorie%2FFrankrig%252b181=
+5%2d70%2FLudvig%2dFilip" style=3D"color:#474747; text-decoration:none;"><sp=
+an style=3D"font-size:13px; font-weight:bold;">1848 - Ludvig-Filip</span><b=
+r /><span style=3D"color:#666666;">De franske reformtilh&#230;ngeres afslut=
+tende banket i Paris blev forbudt af regeringen. Borgerkongen Ludvig-Filip =
+kom ikke til at sidde l&#230;nge endnu.</span><span style=3D"color:#669900;=
+"> L=E6s mere</span></a></td></tr><tr><td width=3D"320" height=3D"23"><img =
+src=3D"http://gyldendal.nyhedsbrev.peytz.dk/kollage/gfx/articles_dots?novar=
+y=3D1233748187" width=3D"320" height=3D"23" alt=3D"" style=3D"display:block=
+;" /></td></tr><tr><td width=3D"320" style=3D"font-family:Verdana, Geneva, =
+sans-serif; font-size:10px; color:#474747; line-height:1.3;"><a href=3D"htt=
+p://gyldendal.nyhedsbrev.peytz.dk/g.php?1003178398-1010387098-154f2d82-http=
+%3A%2F%2Fwww.denstoredanske.dk%2FKunst%252bog%252bkultur%2FMusik%2FKlassisk=
+%252bmusik%2FDanske%252bkomponister%252b1830%2d1900%2FNiels%252bWilhelm%252=
+bGade" style=3D"color:#474747; text-decoration:none;"><span style=3D"font-s=
+ize:13px; font-weight:bold;">1817 - Niels W. Gade</span><br /><span style=
+=3D"color:#666666;">Niels W. Gade, dansk komponist og dirigent, blev f&#248=
+;dt. Han er en af de mest fremtr&#230;dende repr&#230;sentanter for dansk r=
+omantisk musik. Gade skrev bl.a....</span><span style=3D"color:#669900;"> L=
+=E6s mere</span></a></td></tr><tr><td width=3D"320" height=3D"23"><img src=
+=3D"http://gyldendal.nyhedsbrev.peytz.dk/kollage/gfx/articles_dots?novary=
+=3D1233748187" width=3D"320" height=3D"23" alt=3D"" style=3D"display:block;=
+" /></td></tr><tr><td width=3D"320" style=3D"font-family:Verdana, Geneva, s=
+ans-serif; font-size:10px; color:#474747; line-height:1.3;"><a href=3D"http=
+://gyldendal.nyhedsbrev.peytz.dk/g.php?1003178398-1010387099-702816c4-http%=
+3A%2F%2Fwww.denstoredanske.dk%2FLivsstil%2C%252bsport%252bog%252bfritid%2FF=
+ilosofi%2FFilosofi%252bi%252b1800%2d%252bog%252b1900%2dt.%2FArthur%252bScho=
+penhauer" style=3D"color:#474747; text-decoration:none;"><span style=3D"fon=
+t-size:13px; font-weight:bold;">1788 - Arthur Schopenhauer</span><br /><spa=
+n style=3D"color:#666666;">Arthur Schopenhauer, tysk filosof, blev f&#248;d=
+t. If&#248;lge Schopenhauer tilfredsstilles menneskets livsvilje aldrig var=
+igt, fordi opfyldte behov og beg&#230;r kun...</span><span style=3D"color:#=
+669900;"> L=E6s mere</span></a></td></tr><tr><td width=3D"320" height=3D"23=
+"><img src=3D"http://gyldendal.nyhedsbrev.peytz.dk/kollage/gfx/articles_dot=
+s?novary=3D1233748187" width=3D"320" height=3D"23" alt=3D"" style=3D"displa=
+y:block;" /></td></tr><tr><td width=3D"320" style=3D"font-family:Verdana, G=
+eneva, sans-serif; font-size:10px; color:#474747; line-height:1.3;"><a href=
+=3D"http://gyldendal.nyhedsbrev.peytz.dk/g.php?1003178398-1010387100-259415=
+18-http%3A%2F%2Fwww.denstoredanske.dk%2FLivsstil%2C%252bsport%252bog%252bfr=
+itid%2FFolketro%252bog%252bfolkemindevidenskab%2FPeder%252bSyv" style=3D"co=
+lor:#474747; text-decoration:none;"><span style=3D"font-size:13px; font-wei=
+ght:bold;">1631 - Peder Syv</span><br /><span style=3D"color:#666666;">Den =
+danske sprogforsker Peder Syv blev f&#248;dt. I sit tobindsv&#230;rk Aldmin=
+delige Danske Ord-Sproge og korte L&#230;rdomme samlede han og emneordnede =
+15000 ordsprog,...</span><span style=3D"color:#669900;"> L=E6s mere</span><=
+/a></td></tr><tr><td width=3D"320" height=3D"23"><img src=3D"http://gyldend=
+al.nyhedsbrev.peytz.dk/kollage/gfx/articles_dots?novary=3D1233748187" width=
+=3D"320" height=3D"23" alt=3D"" style=3D"display:block;" /></td></tr></tabl=
+e></td></tr></table></td><!-- RIGHT COLUMN --><td valign=3D"top" width=3D"2=
+20"><table width=3D"200" cellpadding=3D"0" cellspacing=3D"0"><tr><td width=
+=3D"200"><table width=3D"200" cellpadding=3D"1" cellspacing=3D"0" style=3D"=
+border:1px solid #cccccc;"><tr><td bgcolor=3D"#FFFFFF"><table align=3D"cent=
+er" width=3D"184" cellpadding=3D"0" cellspacing=3D"0"><tr><td width=3D"196"=
+ height=3D"24" bgcolor=3D"#375467" style=3D"font-family:Verdana, Geneva, sa=
+ns-serif; font-size:12px; color:#FFFFFF;">&nbsp;&nbsp;Dagens <b>billeder</b=
+></td></tr><tr><td width=3D"196" bgcolor=3D"#f6f6f6"><img src=3D"http://gyl=
+dendal.nyhedsbrev.peytz.dk/kollage/gfx/spacer?novary=3D1233748226" width=3D=
+"196" height=3D"3" alt=3D"" style=3D"display:block;" /></td></tr><tr><td><t=
+able width=3D"184" align=3D"center" cellpadding=3D"0" cellspacing=3D"0"><tr=
+><td width=3D"184"><a href=3D"http://gyldendal.nyhedsbrev.peytz.dk/g.php?10=
+03178398-1010387092-425a8dbc-http%3A%2F%2Fwww.denstoredanske.dk%2FKunst%252=
+bog%252bkultur%2FReligion%252bog%252bmystik%2FNy%252btestamente%2FPeter"><i=
+mg src=3D"http://gyldendal.nyhedsbrev.peytz.dk/kollage/images/350f4178d9c73=
+8c27a56ef32dd42940b_184x0.jpg?novary=3D1266794104" width=3D"184" alt=3D"" s=
+tyle=3D"display:block;" border=3D"0" /></a><a href=3D"http://gyldendal.nyhe=
+dsbrev.peytz.dk/g.php?1003178398-1010387092-425a8dbc-http%3A%2F%2Fwww.denst=
+oredanske.dk%2FKunst%252bog%252bkultur%2FReligion%252bog%252bmystik%2FNy%25=
+2btestamente%2FPeter" style=3D"font-family:Verdana, Geneva, sans-serif; fon=
+t-size:10px; color:#474747; line-height:1.3; text-decoration: none;">Peter<=
+/a><br/><a href=3D"http://gyldendal.nyhedsbrev.peytz.dk/g.php?1003178398-10=
+10387092-425a8dbc-http%3A%2F%2Fwww.denstoredanske.dk%2FKunst%252bog%252bkul=
+tur%2FReligion%252bog%252bmystik%2FNy%252btestamente%2FPeter" style=3D"font=
+-family:Verdana, Geneva, sans-serif; font-size:10px; color:#474747; line-he=
+ight:1.3; text-decoration: none;">&copy; Scala</a><br/></td></tr><tr><td wi=
+dth=3D"184"><a href=3D"http://gyldendal.nyhedsbrev.peytz.dk/g.php?100317839=
+8-1010387096-cb766e5-http%3A%2F%2Fwww.denstoredanske.dk%2FLivsstil%2C%252bs=
+port%252bog%252bfritid%2FTurisme%252bog%252bfritid%2FSpejderbev%25c3%25a6ge=
+lser%2FRobert%252bBaden%2dPowell"><img src=3D"http://gyldendal.nyhedsbrev.p=
+eytz.dk/kollage/images/6402bc1003224967dca051ea6570bcf8_184x0.jpg?novary=3D=
+1266794105" width=3D"184" alt=3D"" style=3D"display:block;" border=3D"0" />=
+</a><a href=3D"http://gyldendal.nyhedsbrev.peytz.dk/g.php?1003178398-101038=
+7096-cb766e5-http%3A%2F%2Fwww.denstoredanske.dk%2FLivsstil%2C%252bsport%252=
+bog%252bfritid%2FTurisme%252bog%252bfritid%2FSpejderbev%25c3%25a6gelser%2FR=
+obert%252bBaden%2dPowell" style=3D"font-family:Verdana, Geneva, sans-serif;=
+ font-size:10px; color:#474747; line-height:1.3; text-decoration: none;">Ro=
+bert Baden-Powell</a><br/><a href=3D"http://gyldendal.nyhedsbrev.peytz.dk/g=
+.php?1003178398-1010387096-cb766e5-http%3A%2F%2Fwww.denstoredanske.dk%2FLiv=
+sstil%2C%252bsport%252bog%252bfritid%2FTurisme%252bog%252bfritid%2FSpejderb=
+ev%25c3%25a6gelser%2FRobert%252bBaden%2dPowell" style=3D"font-family:Verdan=
+a, Geneva, sans-serif; font-size:10px; color:#474747; line-height:1.3; text=
+-decoration: none;">&copy; Spejdermuseet</a><br/></td></tr><tr><td width=3D=
+"184"><a href=3D"http://gyldendal.nyhedsbrev.peytz.dk/g.php?1003178398-1010=
+387097-69d05da3-http%3A%2F%2Fwww.denstoredanske.dk%2FRejser%2C%252bgeografi=
+%252bog%252bhistorie%2FFrankrig%2FFrankrigs%252bhistorie%2FFrankrig%252b181=
+5%2d70%2FLudvig%2dFilip"><img src=3D"http://gyldendal.nyhedsbrev.peytz.dk/k=
+ollage/images/245fee49ad7428acabcf8ad05ce8e189_184x0.jpg?novary=3D126679410=
+5" width=3D"184" alt=3D"" style=3D"display:block;" border=3D"0" /></a><a hr=
+ef=3D"http://gyldendal.nyhedsbrev.peytz.dk/g.php?1003178398-1010387097-69d0=
+5da3-http%3A%2F%2Fwww.denstoredanske.dk%2FRejser%2C%252bgeografi%252bog%252=
+bhistorie%2FFrankrig%2FFrankrigs%252bhistorie%2FFrankrig%252b1815%2d70%2FLu=
+dvig%2dFilip" style=3D"font-family:Verdana, Geneva, sans-serif; font-size:1=
+0px; color:#474747; line-height:1.3; text-decoration: none;">Ludvig-Filip</=
+a><br/><a href=3D"http://gyldendal.nyhedsbrev.peytz.dk/g.php?1003178398-101=
+0387097-69d05da3-http%3A%2F%2Fwww.denstoredanske.dk%2FRejser%2C%252bgeograf=
+i%252bog%252bhistorie%2FFrankrig%2FFrankrigs%252bhistorie%2FFrankrig%252b18=
+15%2d70%2FLudvig%2dFilip" style=3D"font-family:Verdana, Geneva, sans-serif;=
+ font-size:10px; color:#474747; line-height:1.3; text-decoration: none;">&c=
+opy; Bridgeman Art Library/Versailles, Paris</a><br/></td></tr><tr><td widt=
+h=3D"184"><a href=3D"http://gyldendal.nyhedsbrev.peytz.dk/g.php?1003178398-=
+1010387098-154f2d82-http%3A%2F%2Fwww.denstoredanske.dk%2FKunst%252bog%252bk=
+ultur%2FMusik%2FKlassisk%252bmusik%2FDanske%252bkomponister%252b1830%2d1900=
+%2FNiels%252bWilhelm%252bGade"><img src=3D"http://gyldendal.nyhedsbrev.peyt=
+z.dk/kollage/images/57d6402b1a19a4bb67131999a70a458b_184x0.jpg?novary=3D126=
+6794105" width=3D"184" alt=3D"" style=3D"display:block;" border=3D"0" /></a=
+><a href=3D"http://gyldendal.nyhedsbrev.peytz.dk/g.php?1003178398-101038709=
+8-154f2d82-http%3A%2F%2Fwww.denstoredanske.dk%2FKunst%252bog%252bkultur%2FM=
+usik%2FKlassisk%252bmusik%2FDanske%252bkomponister%252b1830%2d1900%2FNiels%=
+252bWilhelm%252bGade" style=3D"font-family:Verdana, Geneva, sans-serif; fon=
+t-size:10px; color:#474747; line-height:1.3; text-decoration: none;">Niels =
+W. Gade</a><br/><a href=3D"http://gyldendal.nyhedsbrev.peytz.dk/g.php?10031=
+78398-1010387098-154f2d82-http%3A%2F%2Fwww.denstoredanske.dk%2FKunst%252bog=
+%252bkultur%2FMusik%2FKlassisk%252bmusik%2FDanske%252bkomponister%252b1830%=
+2d1900%2FNiels%252bWilhelm%252bGade" style=3D"font-family:Verdana, Geneva, =
+sans-serif; font-size:10px; color:#474747; line-height:1.3; text-decoration=
+: none;">&copy; Gyldendal</a><br/></td></tr><tr><td width=3D"184"><a href=
+=3D"http://gyldendal.nyhedsbrev.peytz.dk/g.php?1003178398-1010387099-702816=
+c4-http%3A%2F%2Fwww.denstoredanske.dk%2FLivsstil%2C%252bsport%252bog%252bfr=
+itid%2FFilosofi%2FFilosofi%252bi%252b1800%2d%252bog%252b1900%2dt.%2FArthur%=
+252bSchopenhauer"><img src=3D"http://gyldendal.nyhedsbrev.peytz.dk/kollage/=
+images/b375af592fdd650edaac53d641cdfa0d_184x0.jpg?novary=3D1266794105" widt=
+h=3D"184" alt=3D"" style=3D"display:block;" border=3D"0" /></a><a href=3D"h=
+ttp://gyldendal.nyhedsbrev.peytz.dk/g.php?1003178398-1010387099-702816c4-ht=
+tp%3A%2F%2Fwww.denstoredanske.dk%2FLivsstil%2C%252bsport%252bog%252bfritid%=
+2FFilosofi%2FFilosofi%252bi%252b1800%2d%252bog%252b1900%2dt.%2FArthur%252bS=
+chopenhauer" style=3D"font-family:Verdana, Geneva, sans-serif; font-size:10=
+px; color:#474747; line-height:1.3; text-decoration: none;">Arthur Schopenh=
+auer</a><br/><a href=3D"http://gyldendal.nyhedsbrev.peytz.dk/g.php?10031783=
+98-1010387099-702816c4-http%3A%2F%2Fwww.denstoredanske.dk%2FLivsstil%2C%252=
+bsport%252bog%252bfritid%2FFilosofi%2FFilosofi%252bi%252b1800%2d%252bog%252=
+b1900%2dt.%2FArthur%252bSchopenhauer" style=3D"font-family:Verdana, Geneva,=
+ sans-serif; font-size:10px; color:#474747; line-height:1.3; text-decoratio=
+n: none;">&copy; Stadt- und Universit&#228;tsbibliothek Frankfurt am Main/S=
+chopenhauer-Archiv</a><br/></td></tr></table></td></tr><tr><td width=3D"196=
+" bgcolor=3D"#f6f6f6"><img src=3D"http://gyldendal.nyhedsbrev.peytz.dk/koll=
+age/gfx/spacer?novary=3D1233748226" width=3D"196" height=3D"3" alt=3D"" sty=
+le=3D"display:block;" /></td></tr></table></td></tr></table><img src=3D"htt=
+p://gyldendal.nyhedsbrev.peytz.dk/kollage/gfx/spacer?novary=3D1233748226" w=
+idth=3D"10" height=3D"10" alt=3D"" style=3D"display:block;" /></td></tr></t=
+able></td></tr></table></td></tr><tr><td bgcolor=3D"#FFFFFF" width=3D"600">=
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td bgcolor=3D"=
+#FFFFFF" width=3D"20"></td><td width=3D"560" bgcolor=3D"#F6F6F6"><table cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td height=3D"20" bgcolor=
+=3D"#F6F6F6"></td><td height=3D"20" bgcolor=3D"#F6F6F6"></td><td height=3D"=
+20" bgcolor=3D"#F6F6F6"></td></tr><tr><td width=3D"130"></td><td width=3D"3=
+00"><a target=3D"_blank" href=3D"http://eas4.emediate.eu/eas?cu=3D5692;ty=
+=3Dct"><img src=3D"http://eas4.emediate.eu/eas?cu=3D5692;cre=3Dimg" border=
+=3D"0" alt=3D"" width=3D"300" height=3D"250"></a></td><td width=3D"130"></t=
+d></tr><tr><td height=3D"20" bgcolor=3D"#F6F6F6"></td><td height=3D"20" bgc=
+olor=3D"#F6F6F6"></td><td height=3D"20" bgcolor=3D"#F6F6F6"></td></tr></tab=
+le></td><td bgcolor=3D"#FFFFFF" width=3D"20"></td></tr></table></td></tr><t=
+r><td height=3D"10" bgcolor=3D"#FFFFFF"><img src=3D"http://gyldendal.nyheds=
+brev.peytz.dk/kollage/gfx/spacer?novary=3D1233748226" width=3D"10" height=
+=3D"10" alt=3D"" /></td></tr><tr><td bgcolor=3D"#FFFFFF"><table width=3D"56=
+0" cellspacing=3D"0" align=3D"center"><tr><td width=3D"560" height=3D"24" b=
+gcolor=3D"#375467"><table width=3D"540" align=3D"center" cellpadding=3D"0" =
+cellspacing=3D"0"><tr><td align=3D"left" bgcolor=3D"#375467" style=3D"font-=
+family:Verdana, Geneva, sans-serif; font-size:12px; color:#FFFFFF;">Aktuel =
+<strong>baggrundsviden</strong></td></tr></table></td></tr><tr><td width=3D=
+"560" height=3D"17"><img src=3D"http://gyldendal.nyhedsbrev.peytz.dk/kollag=
+e/gfx/articles_top_gradient?novary=3D1233748191" width=3D"560" height=3D"17=
+" alt=3D"" style=3D"display:block;" /></td></tr><tr><td valign=3D"top" widt=
+h=3D"560"><table align=3D"center" width=3D"540" cellpadding=3D"0" cellspaci=
+ng=3D"0"><tr><td align=3D"left" width=3D"540" style=3D"font-family:Verdana,=
+ Geneva, sans-serif; font-size:10px; color:#474747; line-height:1.3;"><p><a=
+ href=3D"http://gyldendal.nyhedsbrev.peytz.dk/g.php?1003178398-1010387101-4=
+0f32e5e-http%3A%2F%2Fwww.denstoredanske.dk%2FRejser%2C_geografi_og_historie=
+%2FJapan%2FJapan_generelt%2FJapan_%28Landeartikel%29" style=3D"text-decorat=
+ion: none; color: #669900;" title=3D"Rejser, geografi og historie/Japan/Jap=
+an generelt/Japan (Landeartikel)" class=3D"internal" >Japan </a>har afkorte=
+t <a href=3D"http://gyldendal.nyhedsbrev.peytz.dk/g.php?1003178398-10103871=
+02-ef5a6394-http%3A%2F%2Fwww.denstoredanske.dk%2FNatur_og_milj%25C3%25B8%2F=
+Zoologi%2FS%25C3%25A6ler%2C_hvaler_og_s%25C3%25B8k%25C3%25B8er%2Fhvalfangst=
+" style=3D"text-decoration: none; color: #669900;" title=3D"Natur og milj&A=
+tilde;/Zoologi/S&Atilde;ler, hvaler og s&Atilde;k&Atilde;er/hvalfangst" cla=
+ss=3D"internal" >hvalfangst</a>s&aelig;sonen med flere m&aring;neder i &ari=
+ng;r. Den japanske jagt p&aring; <a href=3D"http://gyldendal.nyhedsbrev.pey=
+tz.dk/g.php?1003178398-1010387103-8a3d58d2-http%3A%2F%2Fwww.denstoredanske.=
+dk%2FNatur_og_milj%25C3%25B8%2FZoologi%2FS%25C3%25A6ler%2C_hvaler_og_s%25C3=
+%25B8k%25C3%25B8er%2Fhvaler" style=3D"text-decoration: none; color: #669900=
+;" title=3D"Natur og milj&Atilde;/Zoologi/S&Atilde;ler, hvaler og s&Atilde;=
+k&Atilde;er/hvaler" class=3D"internal" >hvaler </a>- der begrundes i videns=
+kabelige form&aring;l - har l&aelig;nge v&aelig;ret under pres fra mange si=
+der.</p>
+<p><a href=3D"http://gyldendal.nyhedsbrev.peytz.dk/g.php?1003178398-1010387=
+104-6b79fe41-http%3A%2F%2Fwww.denstoredanske.dk%2FRejser%2C%2520geografi%25=
+20og%2520historie%2FAustralien%2520og%2520New%2520Zealand%2FNew%2520Zealand=
+%2FChristchurch" style=3D"text-decoration: none; color: #669900;" title=3D"=
+Rejser, geografi og historie/Australien og New Zealand/New Zealand/Christch=
+urch" class=3D"internal" >Christchurch </a>i <a href=3D"http://gyldendal.ny=
+hedsbrev.peytz.dk/g.php?1003178398-1010387105-e1ec507-http%3A%2F%2Fwww.dens=
+toredanske.dk%2FRejser%2C%2520geografi%2520og%2520historie%2FAustralien%252=
+0og%2520New%2520Zealand%2FNew%2520Zealand%2FNew%2520Zealand%2520%28Landeart=
+ikel%29" style=3D"text-decoration: none; color: #669900;" title=3D"Rejser, =
+geografi og historie/Australien og New Zealand/New Zealand/New Zealand (Lan=
+deartikel)" class=3D"internal" >New Zealand</a> er igen blevet ramt af et v=
+oldsomt <a href=3D"http://gyldendal.nyhedsbrev.peytz.dk/g.php?1003178398-10=
+10387106-a1b788cd-http%3A%2F%2Fwww.denstoredanske.dk%2FIt%2C%2520teknik%252=
+0og%2520naturvidenskab%2FGeologi%2520og%2520kartografi%2FJordsk%25C3%25A6lv=
+%2Fjordsk%25C3%25A6lv" style=3D"text-decoration: none; color: #669900;" tit=
+le=3D"It, teknik og naturvidenskab/Geologi og kartografi/Jordsk&Atilde;lv/j=
+ordsk&Atilde;lv" class=3D"internal" >jordsk&aelig;lv</a>. Det er kun et hal=
+vt &aring;r siden, det sidst skete. Der er sket store skader, str&oslash;mm=
+en er afbrudt, og mennesker er fanget under murbrokker.</p>
+<p>Flere regeringsbygninger i <a href=3D"http://gyldendal.nyhedsbrev.peytz.=
+dk/g.php?1003178398-1010387107-c4d0b38b-http%3A%2F%2Fwww.denstoredanske.dk%=
+2FRejser%2C_geografi_og_historie%2FAfrika%2FNordafrika%2FLibyen_%28Landeart=
+ikel%29" style=3D"text-decoration: none; color: #669900;" title=3D"Rejser, =
+geografi og historie/Afrika/Nordafrika/Libyen (Landeartikel)" class=3D"inte=
+rnal" >Libyens </a>hovedstad <a href=3D"http://gyldendal.nyhedsbrev.peytz.d=
+k/g.php?1003178398-1010387108-b84fc3aa-http%3A%2F%2Fwww.denstoredanske.dk%2=
+FRejser%2C_geografi_og_historie%2FAfrika%2FNordafrika%2FTripoli" style=3D"t=
+ext-decoration: none; color: #669900;" title=3D"Rejser, geografi og histori=
+e/Afrika/Nordafrika/Tripoli" class=3D"internal" >Tripoli </a>er blevet sat =
+i brand af vrede libyere, der kr&aelig;ver at <a href=3D"http://gyldendal.n=
+yhedsbrev.peytz.dk/g.php?1003178398-1010387109-dd28f8ec-http%3A%2F%2Fwww.de=
+nstoredanske.dk%2FRejser%2C_geografi_og_historie%2FAfrika%2FNordafrika%2FMu=
+ammar_Gaddafi" style=3D"text-decoration: none; color: #669900;" title=3D"Re=
+jser, geografi og historie/Afrika/Nordafrika/Muammar Gaddafi" class=3D"inte=
+rnal" >Muammar Gaddafi</a>, der har v&aelig;ret landets leder siden 1969, g=
+&aring;r af.</p>
+<p>Det schweiziske medicinalfirma <a href=3D"http://gyldendal.nyhedsbrev.pe=
+ytz.dk/g.php?1003178398-1010387110-ba4e9686-http%3A%2F%2Fwww.denstoredanske=
+.dk%2FErhverv%2C_karriere_og_ledelse%2FErhvervsliv%2FErhvervsvirksomheder%2=
+FNovartis_AG" style=3D"text-decoration: none; color: #669900;" title=3D"Erh=
+verv, karriere og ledelse/Erhvervsliv/Erhvervsvirksomheder/Novartis AG" cla=
+ss=3D"internal" >Novartis</a> har udviklet en <a href=3D"http://gyldendal.n=
+yhedsbrev.peytz.dk/g.php?1003178398-1010387111-df29adc0-http%3A%2F%2Fwww.de=
+nstoredanske.dk%2FKrop%2C_psyke_og_sundhed%2FSundhedsvidenskab%2FImmunologi=
+%2Fvaccine" style=3D"text-decoration: none; color: #669900;" title=3D"Krop,=
+ psyke og sundhed/Sundhedsvidenskab/Immunologi/vaccine" class=3D"internal" =
+>vaccine </a>mod <a href=3D"http://gyldendal.nyhedsbrev.peytz.dk/g.php?1003=
+178398-1010387112-7080e00a-http%3A%2F%2Fwww.denstoredanske.dk%2FKrop%2C_psy=
+ke_og_sundhed%2FSundhedsvidenskab%2FInfektions%2d_og_tropesygdomme%2Fmening=
+itis" style=3D"text-decoration: none; color: #669900;" title=3D"Krop, psyke=
+ og sundhed/Sundhedsvidenskab/Infektions- og tropesygdomme/meningitis" clas=
+s=3D"internal" >meningitis</a> type B, som man ikke hidtil har haft en vacc=
+ine imod. Denne type meningitis er den mest udbredte i Danmark.<a href=3D"h=
+ttp://gyldendal.nyhedsbrev.peytz.dk/g.php?1003178398-1010387113-15e7db4c-ht=
+tp%3A%2F%2Fwww.denstoredanske.dk%2FRejser%2C_geografi_og_historie%2FMellem%=
+25C3%25B8sten%2FArabiske_halv%25C3%25B8%2C_Bahrain_og_Kuwait%2FBahrain_%28L=
+andeartikel%29" style=3D"text-decoration: none; color: #669900;" title=3D"R=
+ejser, geografi og historie/Mellem&Atilde;sten/Arabiske halv&Atilde;, Bahra=
+in og Kuwait/Bahrain (Landeartikel)" class=3D"internal" ><br />
+</a></p>
+<p><strong>Dagens artikel</strong>: <a href=3D"http://gyldendal.nyhedsbrev.=
+peytz.dk/g.php?1003178398-1010387114-f4a37ddf-http%3A%2F%2Fwww.denstoredans=
+ke.dk%2FMad_og_drikke%2FGastronomi%2FGryderetter%2C_suppe_og_indbagte_rette=
+r%2Flabskovs" style=3D"text-decoration: none; color: #669900;" class=3D"int=
+ernal" title=3D"Mad og drikke/Gastronomi/Gryderetter, suppe og indbagte ret=
+ter/labskovs" >Labskovs</a>.</p></td></tr></table></td></tr><tr><td width=
+=3D"560" height=3D"17">&nbsp;</td></tr></table></td></tr><tr><td width=3D"6=
+00" align=3D"center" bgcolor=3D"#FFFFFF"><table width=3D"560"><tr><td align=
+=3D"left"><a href=3D"http://gyldendal.nyhedsbrev.peytz.dk/g.php?1003178398-=
+1010387115-91c44699-http%3A%2F%2Fwww.denstoredanske.dk%2FSpecial%3ABruger%3=
+Fside%3Dfoelgartikler"  style=3D"font-family:Verdana, Geneva, sans-serif; f=
+ont-size:10px; color:#474747; line-height:1.3; text-decoration:none;">HUSK:=
+ Du kan f=F8lge med i en s=E6rlig interessant artikel, og modtage en e-mail=
+ n=E5r der er =E6ndringer til den.<span style=3D"color:#669900;"> L=E6s mer=
+e</span></a></td></tr></table></td></tr><tr><td height=3D"10" bgcolor=3D"#F=
+FFFFF"><img src=3D"http://gyldendal.nyhedsbrev.peytz.dk/kollage/gfx/spacer?=
+novary=3D1233748226" width=3D"10" height=3D"10" alt=3D"" /></td></tr><tr><t=
+d bgcolor=3D"#FFFFFF" width=3D"600"><table cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0"><tr><td bgcolor=3D"#FFFFFF" width=3D"20"></td><td width=3D=
+"560" bgcolor=3D"#F6F6F6"><table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr><td height=3D"20" bgcolor=3D"#F6F6F6"></td><td height=3D"20" bgc=
+olor=3D"#F6F6F6"></td><td height=3D"20" bgcolor=3D"#F6F6F6"></td></tr><tr><=
+td width=3D"130"></td><td width=3D"300"><a target=3D"_blank" href=3D"http:/=
+/eas4.emediate.eu/eas?cu=3D5693;ty=3Dct"><img src=3D"http://eas4.emediate.e=
+u/eas?cu=3D5693;cre=3Dimg" border=3D"0" alt=3D"" width=3D"300" height=3D"25=
+0"></a></td><td width=3D"130"></td></tr><tr><td height=3D"20" bgcolor=3D"#F=
+6F6F6"></td><td height=3D"20" bgcolor=3D"#F6F6F6"></td><td height=3D"20" bg=
+color=3D"#F6F6F6"></td></tr></table></td><td bgcolor=3D"#FFFFFF" width=3D"2=
+0"></td></tr></table></td></tr><tr><td height=3D"10" bgcolor=3D"#FFFFFF"><i=
+mg src=3D"http://gyldendal.nyhedsbrev.peytz.dk/kollage/gfx/spacer?novary=3D=
+1233748226" width=3D"10" height=3D"10" alt=3D"" /></td></tr><tr><td width=
+=3D"600" align=3D"center" bgcolor=3D"#FFFFFF"><table width=3D"560"><tr><td =
+align=3D"left"><a href=3D"http://gyldendal.nyhedsbrev.peytz.dk/g.php?100317=
+8398-1010387116-3e6d0b53-http%3A%2F%2Fwww.denstoredanske.dk%2Findex.php%3Ft=
+itle%3DOpslagstavlen%2FArtiklens_navn%26action%3Dedit%26template%3DNyt%2Bop=
+slag" style=3D"font-family:Verdana, Geneva, sans-serif; font-size:10px; col=
+or:#474747; line-height:1.3; text-decoration:none;">HUSK: Brug opslagstavle=
+n til at f=E5 hj=E6lp fra andre brugere, fx hvis du mangler noget viden for=
+ at kunne g=F8re din artikel helt perfekt.<span style=3D"color:#669900;"> L=
+=E6s mere</span></a></td></tr></table></td></tr><tr><td height=3D"10" bgcol=
+or=3D"#FFFFFF"><img src=3D"http://gyldendal.nyhedsbrev.peytz.dk/kollage/gfx=
+/spacer?novary=3D1233748226" width=3D"10" height=3D"10" alt=3D"" /></td></t=
+r><tr bgcolor=3D"#99FF99"><td><table width=3D"600" bgcolor=3D"#FFFFFF" cell=
+padding=3D"0" cellspacing=3D"0"><tr><!-- LEFT COLUMN continued --><td valig=
+n=3D"top" width=3D"380"><table align=3D"center" width=3D"340" cellpadding=
+=3D"0" cellspacing=3D"0"><tr><td width=3D"340" height=3D"2"></td></tr><tr><=
+td width=3D"340" height=3D"24" bgcolor=3D"#375467"><table width=3D"320" ali=
+gn=3D"center" cellpadding=3D"0" cellspacing=3D"0"><tr><td bgcolor=3D"#37546=
+7" style=3D"font-family:Verdana, Geneva, sans-serif; font-size:12px; color:=
+#FFFFFF;">5 <b>nyeste</b> artikler</td></tr></table></td></tr><tr><td width=
+=3D"340" height=3D"17"><img src=3D"http://gyldendal.nyhedsbrev.peytz.dk/kol=
+lage/gfx/articles_top_gradient?novary=3D1233748191" width=3D"340" height=3D=
+"17" alt=3D"" style=3D"display:block;" /></td></tr><tr><td valign=3D"top" w=
+idth=3D"340"><table align=3D"center" width=3D"320" cellpadding=3D"0" cellsp=
+acing=3D"0"><tr><td width=3D"320" style=3D"font-family:Verdana, Geneva, san=
+s-serif; font-size:10px; color:#474747; line-height:1.3;"><a href=3D"http:/=
+/gyldendal.nyhedsbrev.peytz.dk/g.php?1003178398-1010387117-5b0a3015-http%3A=
+%2F%2Fwww.denstoredanske.dk%2FIt%252C_teknik_og_naturvidenskab%2FKemi%2FUor=
+ganisk_stofkemi%2Fsvovlsyrling" style=3D"color:#474747; text-decoration:non=
+e;"><span style=3D"font-size:13px; font-weight:bold;">svovlsyrling</span><b=
+r /><span style=3D"color:#666666;">dihydrogentrioxosulfat, H2SO3, svag syre=
+, der ikke kendes i fri tilstand. Den dannes, n&#229;r svovldioxid opl&#248=
+;ses i vand. salte af svovlsyrling kaldes...</span><span style=3D"color:#66=
+9900;"> mere</span></a></td></tr><tr><td width=3D"320" height=3D"23"><img s=
+rc=3D"http://gyldendal.nyhedsbrev.peytz.dk/kollage/gfx/articles_dots?novary=
+=3D1233748187" width=3D"320" height=3D"23" alt=3D"" style=3D"display:block;=
+" /></td></tr><tr><td width=3D"320" style=3D"font-family:Verdana, Geneva, s=
+ans-serif; font-size:10px; color:#474747; line-height:1.3;"><a href=3D"http=
+://gyldendal.nyhedsbrev.peytz.dk/g.php?1003178398-1010387118-27954034-http%=
+3A%2F%2Fwww.denstoredanske.dk%2FIt%252C_teknik_og_naturvidenskab%2FKemi%2FU=
+organisk_stofkemi%2Fsulfit" style=3D"color:#474747; text-decoration:none;">=
+<span style=3D"font-size:13px; font-weight:bold;">sulfit</span><br /><span =
+style=3D"color:#666666;">forbindelse afledt af svovlsyrling, se sulfitter.<=
+/span><span style=3D"color:#669900;"> mere</span></a></td></tr><tr><td widt=
+h=3D"320" height=3D"23"><img src=3D"http://gyldendal.nyhedsbrev.peytz.dk/ko=
+llage/gfx/articles_dots?novary=3D1233748187" width=3D"320" height=3D"23" al=
+t=3D"" style=3D"display:block;" /></td></tr><tr><td width=3D"320" style=3D"=
+font-family:Verdana, Geneva, sans-serif; font-size:10px; color:#474747; lin=
+e-height:1.3;"><a href=3D"http://gyldendal.nyhedsbrev.peytz.dk/g.php?100317=
+8398-1010387119-42f27b72-http%3A%2F%2Fwww.denstoredanske.dk%2FIt%252C_tekni=
+k_og_naturvidenskab%2FEnergi%252C_varme_og_k%25C3%25B8leteknik%2FVarme%252C=
+_ventilation%252C_ovne_og_kedler%2Fstr%25C3%25A5levarme" style=3D"color:#47=
+4747; text-decoration:none;"><span style=3D"font-size:13px; font-weight:bol=
+d;">str&#229;levarme</span><br /><span style=3D"color:#666666;">varme, der =
+overf&#248;res ved str&#229;ling i mods&#230;tning til varme overf&#248;rt =
+ved konduktion (ledning) eller konvektion; se varmestr&#229;ling og varme.<=
+/span><span style=3D"color:#669900;"> mere</span></a></td></tr><tr><td widt=
+h=3D"320" height=3D"23"><img src=3D"http://gyldendal.nyhedsbrev.peytz.dk/ko=
+llage/gfx/articles_dots?novary=3D1233748187" width=3D"320" height=3D"23" al=
+t=3D"" style=3D"display:block;" /></td></tr><tr><td width=3D"320" style=3D"=
+font-family:Verdana, Geneva, sans-serif; font-size:10px; color:#474747; lin=
+e-height:1.3;"><a href=3D"http://gyldendal.nyhedsbrev.peytz.dk/g.php?100317=
+8398-1010387120-c1501465-http%3A%2F%2Fwww.denstoredanske.dk%2FNye_artikler%=
+2FL%2526R_Business" style=3D"color:#474747; text-decoration:none;"><span st=
+yle=3D"font-size:13px; font-weight:bold;">L&R Business</span><br /><span st=
+yle=3D"color:#666666;">Hos L&R Business finder du et stort udvalg af b&#248=
+;ger indenfor ledelse, strategi og marketing.<br />
+Bes&#248;g L&R Business p&#229; http://lrbusiness.dk/</span><span style=3D"=
+color:#669900;"> mere</span></a></td></tr><tr><td width=3D"320" height=3D"2=
+3"><img src=3D"http://gyldendal.nyhedsbrev.peytz.dk/kollage/gfx/articles_do=
+ts?novary=3D1233748187" width=3D"320" height=3D"23" alt=3D"" style=3D"displ=
+ay:block;" /></td></tr><tr><td width=3D"320" style=3D"font-family:Verdana, =
+Geneva, sans-serif; font-size:10px; color:#474747; line-height:1.3;"><a hre=
+f=3D"http://gyldendal.nyhedsbrev.peytz.dk/g.php?1003178398-1010387121-a4372=
+f23-http%3A%2F%2Fwww.denstoredanske.dk%2FKunst_og_kultur%2FMusik%2FRytmisk_=
+musik%2FUdenlandske_musikere_og_grupper%2FSiw_Malmkvist" style=3D"color:#47=
+4747; text-decoration:none;"><span style=3D"font-size:13px; font-weight:bol=
+d;">Siw Malmkvist</span><br /><span style=3D"color:#666666;">Siw Gunnel Mar=
+gareta Malmkvist, f. 1.12.1936, svensk popsanger. Allerede sit f&#248;rste =
+hit, Augustin (1959), genindsang hun p&#229; n&#230;sten accentfrit dansk, =
+og op...</span><span style=3D"color:#669900;"> mere</span></a></td></tr><tr=
+><td width=3D"320" height=3D"23"><img src=3D"http://gyldendal.nyhedsbrev.pe=
+ytz.dk/kollage/gfx/articles_dots?novary=3D1233748187" width=3D"320" height=
+=3D"23" alt=3D"" style=3D"display:block;" /></td></tr></table></td></tr></t=
+able></td><!-- RIGHT COLUMN continued --><td valign=3D"top" width=3D"220"><=
+table width=3D"200" cellpadding=3D"0" cellspacing=3D"0"><tr><td width=3D"20=
+0"><table width=3D"200" cellpadding=3D"1" cellspacing=3D"0" style=3D"border=
+:1px solid #cccccc;"><tr><td bgcolor=3D"#FFFFFF"><table align=3D"center" wi=
+dth=3D"184" cellpadding=3D"0" cellspacing=3D"0"><tr><td width=3D"196" heigh=
+t=3D"24" bgcolor=3D"#375467" style=3D"font-family:Verdana, Geneva, sans-ser=
+if; font-size:12px; color:#FFFFFF;">&nbsp;&nbsp;Dine <b>nyhedsbreve</b></td=
+></tr><tr><td width=3D"196" bgcolor=3D"#f6f6f6"><img src=3D"http://gyldenda=
+l.nyhedsbrev.peytz.dk/kollage/gfx/spacer?novary=3D1233748226" width=3D"196"=
+ height=3D"3" alt=3D"" style=3D"display:block;" /></td></tr><tr><td bgcolor=
+=3D"#f6f6f6"><table width=3D"184" align=3D"center" cellpadding=3D"0" cellsp=
+acing=3D"0"><tr><td width=3D"184" bgcolor=3D"#f6f6f6"><table width=3D"184" =
+cellpadding=3D"0" cellspacing=3D"0"><tr><td align=3D"center" valign=3D"top"=
+ width=3D"17" height=3D"14" style=3D"color:#669900; font-weight:bold;"></td=
+><td width=3D"161" style=3D"font-family:Verdana, Geneva, sans-serif; font-s=
+ize:10px; color:#666666;">Bil, b=E5d, fly m.m.</td></tr></table></td></tr><=
+tr><td width=3D"184" height=3D"5" bgcolor=3D"#f6f6f6"><img src=3D"http://gy=
+ldendal.nyhedsbrev.peytz.dk/kollage/gfx/nb_dots?novary=3D1234186741" width=
+=3D"184" height=3D"5" alt=3D"" style=3D"display:block;" /></td></tr><tr><td=
+ width=3D"184" bgcolor=3D"#f6f6f6"><table width=3D"184" cellpadding=3D"0" c=
+ellspacing=3D"0"><tr><td align=3D"center" valign=3D"top" width=3D"17" heigh=
+t=3D"14" style=3D"color:#669900; font-weight:bold;"></td><td width=3D"161" =
+style=3D"font-family:Verdana, Geneva, sans-serif; font-size:10px; color:#66=
+6666;">Bolig</td></tr></table></td></tr><tr><td width=3D"184" height=3D"5" =
+bgcolor=3D"#f6f6f6"><img src=3D"http://gyldendal.nyhedsbrev.peytz.dk/kollag=
+e/gfx/nb_dots?novary=3D1234186741" width=3D"184" height=3D"5" alt=3D"" styl=
+e=3D"display:block;" /></td></tr><tr><td width=3D"184" bgcolor=3D"#f6f6f6">=
+<table width=3D"184" cellpadding=3D"0" cellspacing=3D"0"><tr><td align=3D"c=
+enter" valign=3D"top" width=3D"17" height=3D"14" style=3D"color:#669900; fo=
+nt-weight:bold;"><img src=3D"http://gyldendal.nyhedsbrev.peytz.dk/kollage/g=
+fx/tilmeldt?novary=3D1234186817" width=3D"17" height=3D"14" alt=3D"+" style=
+=3D"display:block;" /></td><td width=3D"161" style=3D"font-family:Verdana, =
+Geneva, sans-serif; font-size:10px; color:#666666;">Dagen i dag</td></tr></=
+table></td></tr><tr><td width=3D"184" height=3D"5" bgcolor=3D"#f6f6f6"><img=
+ src=3D"http://gyldendal.nyhedsbrev.peytz.dk/kollage/gfx/nb_dots?novary=3D1=
+234186741" width=3D"184" height=3D"5" alt=3D"" style=3D"display:block;" /><=
+/td></tr><tr><td width=3D"184" bgcolor=3D"#f6f6f6"><table width=3D"184" cel=
+lpadding=3D"0" cellspacing=3D"0"><tr><td align=3D"center" valign=3D"top" wi=
+dth=3D"17" height=3D"14" style=3D"color:#669900; font-weight:bold;"></td><t=
+d width=3D"161" style=3D"font-family:Verdana, Geneva, sans-serif; font-size=
+:10px; color:#666666;">Danmarks geografi og historie </td></tr></table></td=
+></tr><tr><td width=3D"184" height=3D"5" bgcolor=3D"#f6f6f6"><img src=3D"ht=
+tp://gyldendal.nyhedsbrev.peytz.dk/kollage/gfx/nb_dots?novary=3D1234186741"=
+ width=3D"184" height=3D"5" alt=3D"" style=3D"display:block;" /></td></tr><=
+tr><td width=3D"184" bgcolor=3D"#f6f6f6"><table width=3D"184" cellpadding=
+=3D"0" cellspacing=3D"0"><tr><td align=3D"center" valign=3D"top" width=3D"1=
+7" height=3D"14" style=3D"color:#669900; font-weight:bold;"></td><td width=
+=3D"161" style=3D"font-family:Verdana, Geneva, sans-serif; font-size:10px; =
+color:#666666;">Erhverv, karriere og ledelse</td></tr></table></td></tr><tr=
+><td width=3D"184" height=3D"5" bgcolor=3D"#f6f6f6"><img src=3D"http://gyld=
+endal.nyhedsbrev.peytz.dk/kollage/gfx/nb_dots?novary=3D1234186741" width=3D=
+"184" height=3D"5" alt=3D"" style=3D"display:block;" /></td></tr><tr><td wi=
+dth=3D"184" bgcolor=3D"#f6f6f6"><table width=3D"184" cellpadding=3D"0" cell=
+spacing=3D"0"><tr><td align=3D"center" valign=3D"top" width=3D"17" height=
+=3D"14" style=3D"color:#669900; font-weight:bold;"></td><td width=3D"161" s=
+tyle=3D"font-family:Verdana, Geneva, sans-serif; font-size:10px; color:#666=
+666;">It, teknik og naturvidenskab </td></tr></table></td></tr><tr><td widt=
+h=3D"184" height=3D"5" bgcolor=3D"#f6f6f6"><img src=3D"http://gyldendal.nyh=
+edsbrev.peytz.dk/kollage/gfx/nb_dots?novary=3D1234186741" width=3D"184" hei=
+ght=3D"5" alt=3D"" style=3D"display:block;" /></td></tr><tr><td width=3D"18=
+4" bgcolor=3D"#f6f6f6"><table width=3D"184" cellpadding=3D"0" cellspacing=
+=3D"0"><tr><td align=3D"center" valign=3D"top" width=3D"17" height=3D"14" s=
+tyle=3D"color:#669900; font-weight:bold;"></td><td width=3D"161" style=3D"f=
+ont-family:Verdana, Geneva, sans-serif; font-size:10px; color:#666666;">Kro=
+p, psyke og sundhed</td></tr></table></td></tr><tr><td width=3D"184" height=
+=3D"5" bgcolor=3D"#f6f6f6"><img src=3D"http://gyldendal.nyhedsbrev.peytz.dk=
+/kollage/gfx/nb_dots?novary=3D1234186741" width=3D"184" height=3D"5" alt=3D=
+"" style=3D"display:block;" /></td></tr><tr><td width=3D"184" bgcolor=3D"#f=
+6f6f6"><table width=3D"184" cellpadding=3D"0" cellspacing=3D"0"><tr><td ali=
+gn=3D"center" valign=3D"top" width=3D"17" height=3D"14" style=3D"color:#669=
+900; font-weight:bold;"></td><td width=3D"161" style=3D"font-family:Verdana=
+, Geneva, sans-serif; font-size:10px; color:#666666;">Kunst og kultur</td><=
+/tr></table></td></tr><tr><td width=3D"184" height=3D"5" bgcolor=3D"#f6f6f6=
+"><img src=3D"http://gyldendal.nyhedsbrev.peytz.dk/kollage/gfx/nb_dots?nova=
+ry=3D1234186741" width=3D"184" height=3D"5" alt=3D"" style=3D"display:block=
+;" /></td></tr><tr><td width=3D"184" bgcolor=3D"#f6f6f6"><table width=3D"18=
+4" cellpadding=3D"0" cellspacing=3D"0"><tr><td align=3D"center" valign=3D"t=
+op" width=3D"17" height=3D"14" style=3D"color:#669900; font-weight:bold;"><=
+/td><td width=3D"161" style=3D"font-family:Verdana, Geneva, sans-serif; fon=
+t-size:10px; color:#666666;">Livsstil, sport og fritid</td></tr></table></t=
+d></tr><tr><td width=3D"184" height=3D"5" bgcolor=3D"#f6f6f6"><img src=3D"h=
+ttp://gyldendal.nyhedsbrev.peytz.dk/kollage/gfx/nb_dots?novary=3D1234186741=
+" width=3D"184" height=3D"5" alt=3D"" style=3D"display:block;" /></td></tr>=
+<tr><td width=3D"184" bgcolor=3D"#f6f6f6"><table width=3D"184" cellpadding=
+=3D"0" cellspacing=3D"0"><tr><td align=3D"center" valign=3D"top" width=3D"1=
+7" height=3D"14" style=3D"color:#669900; font-weight:bold;"></td><td width=
+=3D"161" style=3D"font-family:Verdana, Geneva, sans-serif; font-size:10px; =
+color:#666666;">Mad og drikke</td></tr></table></td></tr><tr><td width=3D"1=
+84" height=3D"5" bgcolor=3D"#f6f6f6"><img src=3D"http://gyldendal.nyhedsbre=
+v.peytz.dk/kollage/gfx/nb_dots?novary=3D1234186741" width=3D"184" height=3D=
+"5" alt=3D"" style=3D"display:block;" /></td></tr><tr><td width=3D"184" bgc=
+olor=3D"#f6f6f6"><table width=3D"184" cellpadding=3D"0" cellspacing=3D"0"><=
+tr><td align=3D"center" valign=3D"top" width=3D"17" height=3D"14" style=3D"=
+color:#669900; font-weight:bold;"></td><td width=3D"161" style=3D"font-fami=
+ly:Verdana, Geneva, sans-serif; font-size:10px; color:#666666;">Natur og mi=
+lj=F8</td></tr></table></td></tr><tr><td width=3D"184" height=3D"5" bgcolor=
+=3D"#f6f6f6"><img src=3D"http://gyldendal.nyhedsbrev.peytz.dk/kollage/gfx/n=
+b_dots?novary=3D1234186741" width=3D"184" height=3D"5" alt=3D"" style=3D"di=
+splay:block;" /></td></tr><tr><td width=3D"184" bgcolor=3D"#f6f6f6"><table =
+width=3D"184" cellpadding=3D"0" cellspacing=3D"0"><tr><td align=3D"center" =
+valign=3D"top" width=3D"17" height=3D"14" style=3D"color:#669900; font-weig=
+ht:bold;"></td><td width=3D"161" style=3D"font-family:Verdana, Geneva, sans=
+-serif; font-size:10px; color:#666666;">Rejser, geografi og historie</td></=
+tr></table></td></tr><tr><td width=3D"184" height=3D"5" bgcolor=3D"#f6f6f6"=
+><img src=3D"http://gyldendal.nyhedsbrev.peytz.dk/kollage/gfx/nb_dots?novar=
+y=3D1234186741" width=3D"184" height=3D"5" alt=3D"" style=3D"display:block;=
+" /></td></tr><tr><td width=3D"184" bgcolor=3D"#f6f6f6"><table width=3D"184=
+" cellpadding=3D"0" cellspacing=3D"0"><tr><td align=3D"center" valign=3D"to=
+p" width=3D"17" height=3D"14" style=3D"color:#669900; font-weight:bold;"></=
+td><td width=3D"161" style=3D"font-family:Verdana, Geneva, sans-serif; font=
+-size:10px; color:#666666;">Samfund, jura og politik</td></tr></table></td>=
+</tr></table></td></tr><tr><td width=3D"196" bgcolor=3D"#f6f6f6"><img src=
+=3D"http://gyldendal.nyhedsbrev.peytz.dk/kollage/gfx/spacer?novary=3D123374=
+8226" width=3D"196" height=3D"3" alt=3D"" style=3D"display:block;" /></td><=
+/tr></table></td></tr></table><table width=3D"200" cellpadding=3D"1" cellsp=
+acing=3D"0" style=3D"border:1px solid #cccccc; border-top:none;"><tr><td bg=
+color=3D"#FFFFFF"><table align=3D"center" width=3D"196" cellpadding=3D"0" c=
+ellspacing=3D"0"><tr><td align=3D"right" width=3D"196" height=3D"24" style=
+=3D"font-family:Verdana, Geneva, sans-serif; font-size:10px;"><a href=3D"ht=
+tp://gyldendal.nyhedsbrev.peytz.dk/edit.php?newsletterId=3D1000104209&amp;m=
+ailinglistName=3Dgyldendalbruger-da-dk&amp;userId=3D1003178398&amp;checksum=
+=3Dc160785" style=3D"color:#669900; text-decoration:none;">Afmeld nyhedsbre=
+v</a>&nbsp;&nbsp;</td></tr></table></td></tr></table><img src=3D"http://gyl=
+dendal.nyhedsbrev.peytz.dk/kollage/gfx/spacer?novary=3D1233748226" width=3D=
+"10" height=3D"10" alt=3D"" style=3D"display:block;" /></td></tr></table></=
+td></tr></table></td></tr><tr><td height=3D"28" bgcolor=3D"#375467" backgro=
+und=3D"http://gyldendal.nyhedsbrev.peytz.dk/kollage/gfx/footer?novary=3D123=
+3748206"><table align=3D"center" cellpadding=3D"0" cellspacing=3D"0"><tr><t=
+d width=3D"22" background=3D"http://gyldendal.nyhedsbrev.peytz.dk/kollage/g=
+fx/footer_seperator?novary=3D1233748209"></td><td height=3D"28"><a href=3D"=
+http://gyldendal.nyhedsbrev.peytz.dk/g.php?1003178398-1010387122-b9e62e9-ht=
+tp%3A%2F%2Fwww.denstoredanske.dk%2FInfo%2FOm_den_store_danske" style=3D"fon=
+t-family:Verdana, Geneva, sans-serif; font-size:10px; color:#FFFFFF; text-d=
+ecoration:none;">Om Den Store Danske</a></td><td width=3D"22" background=3D=
+"http://gyldendal.nyhedsbrev.peytz.dk/kollage/gfx/footer_seperator?novary=
+=3D1233748209"></td><td><a href=3D"http://gyldendal.nyhedsbrev.peytz.dk/g.p=
+hp?1003178398-1010387123-6ef959af-http%3A%2F%2Fwww.denstoredanske.dk%2FInfo=
+%2FVilk%25C3%25A5r_og_rettigheder" style=3D"font-family:Verdana, Geneva, sa=
+ns-serif; font-size:10px; color:#FFFFFF; text-decoration:none;">Vilk=E5r og=
+ rettigheder</a></td><td width=3D"22" background=3D"http://gyldendal.nyheds=
+brev.peytz.dk/kollage/gfx/footer_seperator?novary=3D1233748209"></td><td><a=
+ href=3D"http://gyldendal.nyhedsbrev.peytz.dk/g.php?1003178398-1010387124-8=
+fbdff3c-http%3A%2F%2Fwww.denstoredanske.dk%2FInfo%2FDatapolitik" style=3D"f=
+ont-family:Verdana, Geneva, sans-serif; font-size:10px; color:#FFFFFF; text=
+-decoration:none;">Datapolitik</a></td><td width=3D"22" background=3D"http:=
+//gyldendal.nyhedsbrev.peytz.dk/kollage/gfx/footer_seperator?novary=3D12337=
+48209"></td><td><a href=3D"http://gyldendal.nyhedsbrev.peytz.dk/g.php?10031=
+78398-1010387125-eadac47a-http%3A%2F%2Fwww.denstoredanske.dk%2FInfo%2FAnnon=
+cer" style=3D"font-family:Verdana, Geneva, sans-serif; font-size:10px; colo=
+r:#FFFFFF; text-decoration:none;">Annoncer</a></td><td width=3D"22" backgro=
+und=3D"http://gyldendal.nyhedsbrev.peytz.dk/kollage/gfx/footer_seperator?no=
+vary=3D1233748209"></td><td><a href=3D"http://gyldendal.nyhedsbrev.peytz.dk=
+/g.php?1003178398-1010387126-457389b0-http%3A%2F%2Fwww.denstoredanske.dk%2F=
+Info%2FKontakt" style=3D"font-family:Verdana, Geneva, sans-serif; font-size=
+:10px; color:#FFFFFF; text-decoration:none;">Kontakt</a></td><td width=3D"2=
+2" background=3D"http://gyldendal.nyhedsbrev.peytz.dk/kollage/gfx/footer_se=
+perator?novary=3D1233748209"></td></tr></table></td></tr><tr><td><table wid=
+th=3D"600" cellpadding=3D"0" cellspacing=3D"0"><tr><td width=3D"20" bgcolor=
+=3D"#9ebdcb"><img src=3D"http://gyldendal.nyhedsbrev.peytz.dk/kollage/gfx/s=
+pacer?novary=3D1233748226" width=3D"20" height=3D"40" alt=3D""></td><td hei=
+ght=3D"40" bgcolor=3D"#9ebdcb" style=3D"font-family:Verdana, Geneva, sans-s=
+erif; font-size:12px; color:#3f5c70; line-height:2;">&copy; <a href=3D"http=
+://gyldendal.nyhedsbrev.peytz.dk/g.php?1003178398-1010387127-2014b2f6-http%=
+3A%2F%2Fwww.gyldendal.dk%2F" style=3D"color:#3f5c70; text-decoration:none;"=
+>Gyldendal</a> 2011</td><td align=3D"right" height=3D"40" bgcolor=3D"#9ebdc=
+b" style=3D"font-family:Verdana, Geneva, sans-serif; font-size:12px; line-h=
+eight:2;"><a href=3D"http://gyldendal.nyhedsbrev.peytz.dk/edit.php?newslett=
+erId=3D1000104209&amp;mailinglistName=3Dgyldendalbruger-da-dk&amp;userId=3D=
+1003178398&amp;checksum=3Dc160785&amp;skipAutoSubscribe=3D1" style=3D"color=
+:#3f5c70; text-decoration:none;">Afmeld dette nyhedsbrev</a></td><td width=
+=3D"20" bgcolor=3D"#9ebdcb"><img height=3D"1" width=3D"1" alt=3D"" src=3D"h=
+ttp://gyldendal.nyhedsbrev.peytz.dk/r/?userId=3D1003178398&amp;newsletterId=
+=3D1000104209&amp;checksum=3Dbe526d33"></td></tr></table></td></tr></table>=
+</td></tr></table></body></html>
+--=_7d7f2edb105831c469ced12833051e03--
+
