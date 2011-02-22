@@ -9,8 +9,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Jens Hilligsøe"]
   s.email       = ["jens@hilli.dk"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{Transfers emails to the Kannel SMS gateway}
+  s.description = %q{Monitors a Maildir for new messages and sends incomning emails off to a Kannel (http://www.kannel.org/) SMS gateway via http}
 
   s.rubyforge_project = "mail2kannel"
 
