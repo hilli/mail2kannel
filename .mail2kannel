@@ -1,0 +1,27 @@
+#
+# General config
+#
+[config]
+# maildomain: What domain do we accept email on?
+maildomain=smsgate.ip.dir.dk
+
+# maildir: What is the incoming Maildir (Do not specify the "new" directory)
+maildir=/home/smsgate/.maildir
+
+# Do you want to cleanup the maildir after a mail is read?
+# It's safe to leave it as false - mail2kannel will then only registers emails
+# coming in _after_ startup. Setting this to true will ship existing emails in
+# the maildir.
+clean_maildir=true
+
+# Debugging the shite?
+debug=true
+
+#
+# Recipients map
+#
+# Format:
+# name=number
+[recipients]
+jens=20136568
+
