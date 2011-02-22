@@ -3,5 +3,4 @@ $:.push File.expand_path("../../lib", __FILE__)
 
 require "mail2kannel"
 
-m = Mail2kannel.new
-m.watch_maildir
+Mail2kannel.watch_maildir("../test/maildir")
